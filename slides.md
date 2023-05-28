@@ -3,7 +3,7 @@ title: "Intro to Chat GPT"
 author: elenakout
 progress: true
 transition: 'slide'
-theme: 'black'
+theme: 'moon'
 ---
 
 <style>
@@ -17,7 +17,11 @@ theme: 'black'
 }
 </style>
 
-## Το ChatGPT και πως επηρεαζεται το Development
+## Το ChatGPT και πως επηρεαζεται το Development.
+
+Κουτούση Έλενα
+
+5 Μαίου 2023
 
 ---
 
